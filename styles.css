@@ -1,0 +1,31 @@
+a{
+ color: #90ee90;   
+}
+
+body{
+ background: #3a3b3c;
+ color: white;
+ font-family: verdana, sans-serif;
+}
+
+button{
+ text-align: center;   
+ width: 32%;
+ background:none;
+ color: white;
+ font-family: verdana, sans-serif;
+ padding: 15px;
+ font-size: 120%;
+ border-radius: 8px;
+ border:solid green ;
+ transition-duration: 0.4s;
+ cursor: pointer;
+}
+
+button:hover{
+ background: green;   
+}
+
+h1{
+ text-align: center;   
+}
